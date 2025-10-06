@@ -1,6 +1,6 @@
 <!-- Professional Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/7XH0LVN/pro-banner-saba.png" alt="Saba Gull Banner" width="100%" />
+  <img src="https://i.ibb.co/GvMB0Mwn/saba-image.webp" alt="Saba Gull Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Saba</h1>
