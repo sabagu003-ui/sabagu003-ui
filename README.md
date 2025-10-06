@@ -1,6 +1,6 @@
 <!-- Professional Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/GvMB0Mwn/saba-image.webp" alt="Saba Gull Banner" width="100%" height="100"  />
+  <img src="https://i.ibb.co/GvMB0Mwn/saba-image.webp" alt="Saba Gull Banner" width="100%" height="300"  />
 </p>
 
 
