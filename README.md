@@ -8,9 +8,8 @@
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabagu003-ui&label=Profile%20Views&color=1abc9c&style=flat" alt="sabagu003-ui" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=sabagu003-ui&label=Profile%20Views&color=1abc9c&style=flat" alt="sabagu003-ui" />
 </p>
-
 
 ---
 
