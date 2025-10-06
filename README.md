@@ -1,7 +1,8 @@
 <!-- Professional Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/7XH0LVN/pro-banner-saba.png" alt="Saba Gull Banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=sabagu003-ui&label=Profile%20Views&color=1abc9c&style=flat" alt="sabagu003-ui" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Saba</h1>
