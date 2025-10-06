@@ -1,6 +1,6 @@
 <!-- Professional Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabagu003-ui&label=Profile%20Views&color=1abc9c&style=flat" alt="sabagu003-ui" />
+  <img src="https://i.ibb.co/GvMB0Mwn/saba-image.webp" alt="Saba Gull Banner" width="100%" />
 </p>
 
 
